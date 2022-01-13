@@ -1,6 +1,6 @@
 # Astro Studios 🚀
 ### Olá, seja bem vindo ao perfil oficial da Astro Studios, você deve estar se perguntando o que é esse Astro?
-Somos atualmente uma desenvolvedora de servidores no jogo Minecraft. Focamos em entregar um conteúdo bom e seguro para nossos jogadores. Nossa rede possui uma variedade de tecnologias tanto quanto de segurança tanto quanto in-game. Você pode acompanhar mais acessando nosso <a href="https://www.figma.com/proto/sZpsEjJcdsRvVr4fe2rqfi/Abstract-UI?node-id=1%3A2&scaling=scale-down-width">Discord</a>
+Somos atualmente uma desenvolvedora de servidores no jogo Minecraft. Focamos em entregar um conteúdo bom e seguro para nossos jogadores. Nossa rede possui uma variedade de tecnologias tanto quanto de segurança tanto quanto in-game. Você pode acompanhar mais acessando nosso <a href="discord.com">Discord</a>
 
 ### Por que jogar no Astro? 🤔
 
@@ -8,7 +8,7 @@ Somos atualmente uma desenvolvedora de servidores no jogo Minecraft. Focamos em 
 
 ・Prezamos também, pela segurança das contas de nossos jogadores, possuimos uma tecnologia apelidada de Astro security, que fornecerá métodos de deixar sua conta ainda mais segura. vale lembrar que todos os dados são salvos com criptográfia própria.
 
-・Fornecemos muitos métodos e meio de se adquirir um produto em nossa loja, mas sempre é chato ter que esperar a compra ser aprovada, pensando nisso, fizemos um sistema que agilizará esse processo, fazendo assim seu produto chegue instantaneamente. <a href="https://www.figma.com/proto/sZpsEjJcdsRvVr4fe2rqfi/Abstract-UI?node-id=1%3A2&scaling=scale-down-width">Saiba mais</a>.
+・Fornecemos muitos métodos e meio de se adquirir um produto em nossa loja, mas sempre é chato ter que esperar a compra ser aprovada, pensando nisso, fizemos um sistema que agilizará esse processo, fazendo assim seu produto chegue instantaneamente. <a href="discord.com">Saiba mais</a>.
 
 ### Como participo da equipe? 🔰
 
